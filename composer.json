@@ -1,13 +1,12 @@
 {
-    "name": "xyu/heroku-wp",
+    "name": "abhay-ranawat/heroku-wp",
     "description": "A template for installing and running WordPress on Heroku",
-    "homepage": "https://github.com/xyu/heroku-wp",
+    "homepage": "https://github.com/abhay-ranawat/heroku-wp/",
     "license": "MIT",
     "authors": [
         {
-            "name": "Xiao Yu",
-            "email": "me@xyu.io",
-            "homepage": "http://xyu.io",
+            "name": "Abhay",
+            "homepage": "https://github.com/abhay-ranawat/",
             "role": "Developer"
         }
     ],
@@ -37,7 +36,7 @@
             "type": "package",
             "package": {
                 "name": "wordpress/wordpress",
-                "version": "5.2.3",
+                "version": "5.3",
                 "dist": {
                     "type": "zip",
                     "url": "https://github.com/wordpress/wordpress/archive/5.3.
@@ -47,7 +46,7 @@
         },
         {
             "type": "vcs",
-            "url": "https://github.com/xyu/batcache"
+            "url": "https://github.com/abhay-ranawat/batcache"
         },
         {
             "type": "composer",
